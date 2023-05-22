@@ -5,7 +5,7 @@ In addition to the search feature, the app also includes the ability for users t
 
 Overall, this project demonstrates your skills in working with APIs, JavaScript, and web development in general. The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
 
-KEY FEATURES
+# KEY FEATURES
 
 Search movies by name
 Auto sugestion on pressed keyword
@@ -15,19 +15,19 @@ Works seamlessly on both mobile and desktop devices
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+# PREREQUISITES
 
 A web browser (e.g. Google Chrome, Firefox, Safari)
 An internet connection
 A code editor (e.g. VS Code, Atom)
 
-Installing
+# INSTALLING
 
 Clone or download the repository to your local machine
 Open the project in your code editor
 Open the index.html file in your web browser to run the app
 
-Built With
+# BUILT-WITH
 
 HTML
 CSS
