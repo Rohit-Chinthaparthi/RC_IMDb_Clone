@@ -34,7 +34,7 @@ CSS
 JavaScript
 
 # Demo
-Check out the live demo of the application at 
+Check out the live demo of the application at http://127.0.0.1:5500/RC_IMDb_Clone-main/index.html
 
 # Authors
 @Rohit_Chinthaparthi
