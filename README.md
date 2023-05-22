@@ -36,6 +36,9 @@ JavaScript
 # Demo
 Check out the live demo of the application at http://127.0.0.1:5500/RC_IMDb_Clone-main/index.html
 
+# YOUTUBE LINK
+Check out the video explanation of the application here https://youtu.be/CVJ1PhPPG6Q
+
 # Authors
 @Rohit_Chinthaparthi
 
