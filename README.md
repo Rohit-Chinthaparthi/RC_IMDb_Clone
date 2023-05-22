@@ -36,7 +36,7 @@ JavaScript
 # Demo
 Check out the live demo of the application at 
 
-Authors
+# Authors
 @Rohit_Chinthaparthi
 
 # License
