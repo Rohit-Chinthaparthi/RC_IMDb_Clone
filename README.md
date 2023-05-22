@@ -5,7 +5,7 @@ In addition to the search feature, the app also includes the ability for users t
 
 Overall, this project demonstrates your skills in working with APIs, JavaScript, and web development in general. The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
 
-Key Features
+KEY FEATURES
 
 Search movies by name
 Auto sugestion on pressed keyword
